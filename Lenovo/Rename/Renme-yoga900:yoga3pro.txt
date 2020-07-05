@@ -1,0 +1,21 @@
+_BIF to XBIF for Method (_BIF,3)
+Find：5F424946 08
+Replace：5F424946 08
+
+_BST to XBST for Method (_BST,4)
+Find：5F425354 08
+Replace：58425354 08
+
+MHPF to XHPF for Method (MHPF, 1)
+Find：4D485046 01
+Replace：58485046 01
+
+GBID to XBID for Method (GBID, 0,)
+Find：47424944 00
+Replace：58424944 00
+
+SMTF to XMTF for Method (SMTF, 1)
+Find：534D5446 01
+Replace：584D5446 01
+
+适用于yoga3pro /yoga3 11 / yoga4pro（yoga900）
